@@ -8,6 +8,6 @@ int main()
     a=5;
     b=6;
 
-    cout<<a+b;
+    cout<<"sum is : "<<a+b;
     return 0;
 }
